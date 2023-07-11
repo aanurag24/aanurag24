@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Anand</h1>
 <h3 align="center">Passionate engineer dedicated to learning, revolutionizing industries, and making a positive impact. Embraces challenges and believes in collaboration.</h3>
 
+<img align="right" alt="Hello" width="500" src="https://media.tenor.com/AvHPuvcRU4wAAAAi/cute-penguin.gif">
+</img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanurag24&label=Profile%20views&color=0e75b6&style=flat" alt="aanurag24" /> </p>
 
 - 🔭 I’m currently working on **Passionate engineer dedicated to learning, revolutionizing industries, and making a positive impact. Embraces challenges and believes in collaboration.**
